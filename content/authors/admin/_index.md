@@ -21,19 +21,19 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Universitat Rovira i Virgili
+    url: https://www.urv.cat/en/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Physics
+      institution: University of the Balearic Islands
+      year: 2019
+    - course: MSc in Advanced Physics
+      institution: Universitat de Barcelona
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: "BSc in Physics "
+      institution: Universitat de Barcelona
+      year: 2010
 superuser: true
 highlight_name: true
 title: Aleix Bassolas
