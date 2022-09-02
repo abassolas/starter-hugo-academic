@@ -23,7 +23,7 @@ abstract: Trip distribution laws are basic for the travel demand
   the different approaches can be used in the absence of detailed data for
   calibration since their only parameter depends only on the scale of the
   geographic unit.
-draft: true
+draft: false
 slides: ""
 url_pdf: ""
 publication_types:
