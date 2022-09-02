@@ -7,16 +7,16 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: aleix.bassolas@gmail.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=tXaOGyUAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/abassolas/
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
