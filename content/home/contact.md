@@ -1,10 +1,15 @@
+---
+# An instance of the Contact widget.
 widget: contact
-headless: true  # This file represents a page section.
 
-# ... Put Your Section Options Here (title etc.) ...
-title: Contact Me
-subtitle: ''
-weight: 10
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 130
+
+title: Contact
+subtitle:
 
 content:
   # Automatically link email and phone or display as text?
@@ -48,5 +53,5 @@ content:
       link: 'https://zoom.com'
 
 design:
-  # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '1'
+  columns: '2'
+---
