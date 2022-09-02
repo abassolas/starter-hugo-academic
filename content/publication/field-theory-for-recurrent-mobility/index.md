@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Mattia Mazzoli
   - Alex Molas
-  - Aleix Bassolas
+  - Admin
   - Maxime Lenormand
   - Pere Colet
   - José J. Ramasco
