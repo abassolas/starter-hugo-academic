@@ -60,12 +60,7 @@ url_poster: ""
 url_code: ""
 doi: https://doi.org/10.1016/j.jtrangeo.2015.12.008
 ---
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
 
 {{% callout note %}}
 https://arxiv.org/pdf/1506.04889.pdf
 {{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
