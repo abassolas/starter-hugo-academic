@@ -16,13 +16,7 @@ content:
   autolink: true
 
   # Email form provider
-  form:
-    provider: admin
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+
 
   # Contact details (edit or remove options as required)
   email: aleix.bassolas@gmail.com
