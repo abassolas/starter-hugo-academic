@@ -25,7 +25,7 @@ abstract: Trip distribution laws are basic for the travel demand
   geographic unit.
 draft: false
 slides: ""
-url_pdf: ""
+url_pdf: "https://arxiv.org/pdf/1506.04889.pdf"
 publication_types:
   - "2"
 authors:
@@ -44,7 +44,7 @@ url_video: ""
 author_notes: []
 publication: Journal of Transport Geography
 featured: false
-date: 2022-09-02T08:28:22.622Z
+date: 2016-09-02T08:28:22.622Z
 url_slides: ""
 title: Systematic comparison of trip distribution laws and models
 tags:
