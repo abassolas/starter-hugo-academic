@@ -2,8 +2,10 @@
 role: Postdoctoral researcher in the Physics of Complex Systems
 bio: My research interests include urban and social systems.
 interests:
-  - Cities
-  - ComplexSystems
+  - Complex Systems
+  - Urban Systems
+  - Human Mobility
+  - Congestion
 social:
   - icon: envelope
     icon_pack: fas
@@ -43,4 +45,4 @@ Aleix Bassolas is a physicst interested in the study of complex systems focusing
 
 He obtained his PhD in Physics at the IFISC (Institute for Cross-Disciplinary Physics and Complex Systems) in Mallorca (Spain) under the supervision of José Javier Ramasco. His research focused on the modelling of public transportation, the impact of public policies in congestion or how the organization of cities impacts their livability, among others. He also worked as a Postdoctoral Research Assistant at the School of Mathematics, Queen Mary University of London, where he developed novel approaches to the study the structure and heterogeneity of node metadata in complex networks.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Aleix_Bassolas_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
