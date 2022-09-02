@@ -1,8 +1,8 @@
 ---
 widget: contact
-widget_id: my-widget-123
+widget_id: contact
 headless: true
-weight: 10
+weight: 140
 active: true
 design:
   columns: "2"
