@@ -2,7 +2,7 @@
 title: Hierarchical organization of urban mobility and its connection with city
   livability
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Admin
   - Hugo Barbosa-Filho
