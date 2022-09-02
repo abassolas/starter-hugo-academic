@@ -37,7 +37,7 @@ education:
 superuser: true
 highlight_name: true
 title: Aleix Bassolas
-email: ""
+email: aleix.bassolas@gmail.com
 ---
 Aleix Bassolas is a physicst interested in the study of complex systems focusing mainly on the various aspects of urban systems and human mobility. Currently he is a postdoctoral researcher at the Departament d'Enginyeria Informàtica i Matèmatiques from the Universitat Rovira i Virgili. His current research focuses on the development of novel methods and models to understand the emergence of congestion and its multifaceted impact in the livability of cities. From a theoretical perspective, on the role of node and link metadata in complex networks.
 
