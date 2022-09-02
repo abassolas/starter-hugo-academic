@@ -3,7 +3,7 @@ title: Una nueva ciencia de la movilidad urbana
 publication_types:
   - "4"
 authors:
-  - Aleix Bassolas
+  - Admin
   - Mattia Mazzoli
   - José J. Ramasco
 publication: Investigación y Ciencia
