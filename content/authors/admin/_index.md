@@ -19,7 +19,7 @@ social:
     link: https://github.com/abassolas/
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://es.linkedin.com/in/aleix-bassolas-esteban-8455b6a7
 organizations:
   - name: Universitat Rovira i Virgili
     url: https://www.urv.cat/en/
@@ -33,7 +33,7 @@ education:
       year: 2012
     - course: "BSc in Physics "
       institution: Universitat de Barcelona
-      year: 2010
+      year: 2013
 superuser: true
 highlight_name: true
 title: Aleix Bassolas
