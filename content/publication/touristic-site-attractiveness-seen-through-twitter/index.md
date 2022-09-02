@@ -3,11 +3,11 @@ title: Touristic site attractiveness seen through Twitter
 publication_types:
   - "2"
 authors:
-  - A Bassolas
-  - M Lenormand
-  - A Tugores
-  - B Gonçalves
-  - JJ Ramasco
+  - Admin
+  - Maxime Lenormand
+  - Antònia Tugores
+  - Bruno Gonçalves
+  - José J. Ramasco
 doi: https://doi.org/10.1140/epjds/s13688-016-0073-5
 publication: "EPJ Data Science "
 publication_short: "EPJ Data Sci. "
@@ -39,5 +39,5 @@ image:
 summary: In this work, we apply a method to assess the attractiveness of 20 of
   the most popular touristic sites worldwide using geolocated tweets as a proxy
   for human mobility.
-date: 2022-09-02T08:50:54.779Z
+date: 2016-03-25T08:50:54.779Z
 ---
