@@ -32,9 +32,10 @@ authors:
   - Maxime Lenormand
   - admin
   - José J Ramasco
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: "In this paper, we perform a thorough comparison between these two
+  approaches in their ability at estimating commuting flows by testing them
+  against empirical trip data at different scales and coming from different
+  countries. "
 url_dataset: ""
 url_project: ""
 publication_short: ""
