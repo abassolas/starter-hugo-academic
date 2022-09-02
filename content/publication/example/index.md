@@ -43,7 +43,7 @@ url_source: ""
 url_video: ""
 author_notes: []
 publication: Journal of Transport Geography
-featured: true
+featured: false
 date: 2022-09-02T08:28:22.622Z
 url_slides: ""
 title: Systematic comparison of trip distribution laws and models
