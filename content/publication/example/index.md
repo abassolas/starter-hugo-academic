@@ -1,87 +1,70 @@
 ---
-title: 'An example conference paper'
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+abstract: Trip distribution laws are basic for the travel demand
+  characterization needed in transport and urban planning. Several approaches
+  have been considered in the last years. One of them is the so-called gravity
+  law, in which the number of trips is assumed to be related to the population
+  at origin and destination and to decrease with the distance. The mathematical
+  expression of this law resembles Newton's law of gravity, which explains its
+  name. Another popular approach is inspired by the theory of intervening
+  opportunities which argues that the distance has no effect on the destination
+  choice, playing only the role of a surrogate for the number of intervening
+  opportunities between them. In this paper, we perform a thorough comparison
+  between these two approaches in their ability at estimating commuting flows by
+  testing them against empirical trip data at different scales and coming from
+  different countries. Different versions of the gravity and the intervening
+  opportunities laws, including the recently proposed radiation law, are used to
+  estimate the probability that an individual has to commute from one unit to
+  another, called trip distribution law. Based on these probability distribution
+  laws, the commuting networks are simulated with different trip distribution
+  models. We show that the gravity law performs better than the intervening
+  opportunities laws to estimate the commuting flows, to preserve the structure
+  of the network and to fit the commuting distance distribution although it
+  fails at predicting commuting flows at large distances. Finally, we show that
+  the different approaches can be used in the absence of detailed data for
+  calibration since their only parameter depends only on the scale of the
+  geographic unit.
+draft: true
+slides: ""
+url_pdf: ""
+publication_types:
+  - "2"
 authors:
+  - Maxime Lenormand
   - admin
-  - Robert Ford
-
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-
-date: '2013-07-01T00:00:00Z'
-doi: ''
-
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ['1']
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
-featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
+  - José J Ramasco
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
+  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
+  condimentum.
+url_dataset: ""
+url_project: ""
+publication_short: ""
+url_source: ""
+url_video: ""
+author_notes: []
+publication: Journal of Transport Geography
+featured: false
+date: 2022-09-02T08:28:22.622Z
+url_slides: ""
+title: Systematic comparison of trip distribution laws and models
+tags:
+  - Human mobility
+  - Gravity Model
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-  - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
+doi: https://doi.org/10.1016/j.jtrangeo.2015.12.008
 ---
-
 {{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
 {{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
+https://arxiv.org/pdf/1506.04889.pdf
 {{% /callout %}}
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
