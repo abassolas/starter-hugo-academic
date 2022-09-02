@@ -39,5 +39,5 @@ image:
 summary: In this work, we apply a method to assess the attractiveness of 20 of
   the most popular touristic sites worldwide using geolocated tweets as a proxy
   for human mobility.
-date: 2022-09-02T08:47:29.863Z
+date: 2022-09-02T08:50:54.779Z
 ---
