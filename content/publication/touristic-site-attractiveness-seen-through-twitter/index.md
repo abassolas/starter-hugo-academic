@@ -10,7 +10,6 @@ authors:
   - José J. Ramasco
 doi: https://doi.org/10.1140/epjds/s13688-016-0073-5
 publication: "EPJ Data Science "
-publication_short: "EPJ Data Sci. "
 abstract: Tourism is becoming a significant contributor to medium and long range
   travels in an increasingly globalized world. Leisure traveling has an
   important impact on the local and global economy as well as on the
